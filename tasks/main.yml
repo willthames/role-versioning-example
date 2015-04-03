@@ -1,2 +1,2 @@
-- name: do something
+- name: Print a nice message
   debug: msg="Welcome to {{version}} in environment {{env}}"
